@@ -1,0 +1,2 @@
+# DontClickWhite
+DontClickWhite Game Bot
